@@ -17,3 +17,4 @@ typings
 
 # Js.map files
 *.js.map
+.idea/
